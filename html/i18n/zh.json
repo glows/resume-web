@@ -1,0 +1,58 @@
+{
+  "ui": {
+    "contact": "联系方式",
+    "skills": "核心技能与技术栈",
+    "languages": "语言能力",
+    "interests": "兴趣爱好",
+    "experience": "工作与项目经历",
+    "education": "教育经历",
+    "certificates": "证书",
+    "present": "至今",
+    "loading": "正在加载简历...",
+    "error": "错误",
+    "errorLoadCv": "无法加载 cv.json",
+    "errorLoadI18n": "无法加载语言文件",
+    "errorLoadContent": "无法加载内容文件",
+    "errorContainer": "缺少容器 #cv。",
+    "noProjects": "没有找到匹配该技能的经历。",
+    "filteredBy": "按技能筛选",
+    "clearFilter": "清除筛选",
+    "link": "链接",
+    "certificate": "证书",
+    "defaultPageTitle": "简历",
+    "defaultDescription": "专业简历"
+  },
+  "buttons": {
+    "exportPdf": "导出 PDF",
+    "pdfCompact": "PDF（简洁）",
+    "pdfDetailed": "PDF（详细）",
+    "markdown": "Markdown",
+    "json": "JSON"
+  },
+  "contact": {
+    "email": "邮箱",
+    "phone": "电话",
+    "wechat": "微信",
+    "address": "城市",
+    "web": "网站",
+    "social": "社交主页"
+  },
+  "types": {
+    "self_employed": "自由职业",
+    "permanent": "全职",
+    "contract": "项目合同",
+    "staffing": "外包/派遣"
+  },
+  "months": ["1月", "2月", "3月", "4月", "5月", "6月", "7月", "8月", "9月", "10月", "11月", "12月"],
+  "markdown": {
+    "contact": "联系方式",
+    "skills": "核心技能与技术栈",
+    "languages": "语言能力",
+    "interests": "兴趣爱好",
+    "experience": "工作与项目经历",
+    "education": "教育经历",
+    "certificates": "证书",
+    "role": "角色",
+    "certLink": "证书链接"
+  }
+}

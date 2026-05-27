@@ -110,7 +110,15 @@
     $('name').textContent = d.name || '';
     $('profession').textContent = d.title || '';
     $('summary').textContent = d.summary || d.description || '';
-    if(d.image){ $('avatar').src = d.image; }
+    const avatar = $('avatar');
+    if(avatar){
+      if(d.image){
+        avatar.src = d.image;
+        avatar.style.display = '';
+      } else {
+        avatar.style.display = 'none';
+      }
+    }
 
     // Set document title from pageTitle field or fallback to name
     const pageTitle = d.pageTitle || (d.name ? d.name + ' – ' + t('ui.defaultPageTitle') : t('ui.defaultPageTitle'));
@@ -135,6 +143,7 @@
       '<div class="contact-grid">'+
         (contact.email? '<div class="contact-key">'+icons.email+' '+t('contact.email')+'</div><div class="contact-item"><a href="mailto:'+s(contact.email)+'">'+s(contact.email)+'</a></div>' : '')+
         (contact.phone? '<div class="contact-key">'+icons.phone+' '+t('contact.phone')+'</div><div class="contact-item"><a href="tel:'+s(contact.phone)+'">'+s(contact.phone)+'</a></div>' : '')+
+        (contact.wechat? '<div class="contact-key">'+icons.social+' '+t('contact.wechat')+'</div><div class="contact-item">'+s(contact.wechat)+'</div>' : '')+
         (contact.address? '<div class="contact-key">'+icons.location+' '+t('contact.address')+'</div><div class="contact-item">'+s(contact.address)+'</div>' : '')+
         (web.url? '<div class="contact-key contact-web">'+icons.web+' '+t('contact.web')+'</div><div class="contact-item contact-web"><a href=\"'+sanitizeUrl(web.url)+'\" target=\"_blank\" rel=\"noopener\">'+s(web.title||web.url)+'</a></div>' : '')+
         (socials.length? '<div class="contact-key contact-social">'+icons.social+' '+t('contact.social')+'</div><div class="contact-item contact-social">'+socials.map(x=>{const u=sanitizeUrl(x.url);return u?'<a href="'+u+'" target="_blank" rel="noopener">'+s(x.name)+'</a>':'';}).filter(Boolean).join(' ')+'</div>' : '')+

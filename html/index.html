@@ -1,23 +1,21 @@
 <!doctype html>
-<html lang="de">
+<html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Lebenslauf</title>
-  <meta name="description" content="Professioneller Lebenslauf – JSON-basierte Resume-Webseite mit PDF-Export">
+  <title>罗东川 - 前端开发工程师简历</title>
+  <meta name="description" content="罗东川的前端开发工程师简历，支持 JSON 数据驱动与 PDF 导出">
   <meta name="color-scheme" content="light dark">
 
   <!-- Open Graph / Social -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Lebenslauf">
-  <meta property="og:description" content="Professioneller Lebenslauf mit modernem Design">
-  <meta property="og:image" content="profile.jpg">
+  <meta property="og:title" content="罗东川 - 前端开发工程师简历">
+  <meta property="og:description" content="前端开发工程师简历">
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Lebenslauf">
-  <meta name="twitter:description" content="Professioneller Lebenslauf mit modernem Design">
-  <meta name="twitter:image" content="profile.jpg">
+  <meta name="twitter:title" content="罗东川 - 前端开发工程师简历">
+  <meta name="twitter:description" content="前端开发工程师简历">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -38,7 +36,7 @@
 <header class="hero">
   <div class="container hero-inner">
     <div class="id">
-      <img id="avatar" src="profile.jpg" alt="Profilbild" class="avatar" loading="lazy">
+      <img id="avatar" src="profile.jpg" alt="头像" class="avatar" loading="lazy">
       <div>
         <h1 id="name" class="title"></h1>
         <div id="profession" class="subtitle"></div>
@@ -49,16 +47,16 @@
       <div id="langSwitcher" class="lang-switcher"></div>
       <div class="export-dropdown">
       <div class="btn-group">
-        <button id="btnExportMain" class="btn btn-export-main" aria-label="PDF detailliert exportieren" title="PDF herunterladen">
+        <button id="btnExportMain" class="btn btn-export-main" aria-label="导出详细 PDF" title="下载 PDF">
           <svg class="icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
             <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
             <polyline points="14 2 14 8 20 8"></polyline>
             <line x1="12" y1="18" x2="12" y2="12"></line>
             <polyline points="9 15 12 18 15 15"></polyline>
           </svg>
-          <span>Lebenslauf als PDF</span>
+          <span>导出 PDF</span>
         </button>
-        <button id="btnDropdownToggle" class="btn btn-export-toggle" aria-label="Export-Optionen anzeigen" title="Weitere Optionen">
+        <button id="btnDropdownToggle" class="btn btn-export-toggle" aria-label="显示导出选项" title="更多选项">
           <svg class="chevron" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
             <polyline points="6 9 12 15 18 9"></polyline>
           </svg>
@@ -70,7 +68,7 @@
             <path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path>
             <polyline points="14 2 14 8 20 8"></polyline>
           </svg>
-          <span>PDF (kompakt)</span>
+          <span>PDF（简洁）</span>
         </button>
         <button id="btnPrintDetailed" class="dropdown-item" role="menuitem">
           <svg class="icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -80,7 +78,7 @@
             <line x1="8" y1="17" x2="16" y2="17"></line>
             <line x1="8" y1="9" x2="10" y2="9"></line>
           </svg>
-          <span>PDF (detailliert)</span>
+          <span>PDF（详细）</span>
         </button>
         <button id="btnDownloadMarkdown" class="dropdown-item" role="menuitem">
           <svg class="icon" width="16" height="16" viewBox="0 0 16 16" fill="currentColor">
@@ -103,7 +101,7 @@
 <main class="container" role="main">
   <div id="loading" class="card loading-card" role="status" aria-live="polite">
     <div class="loading-spinner" aria-hidden="true"></div>
-    <div class="small" style="margin-top:12px;text-align:center">Lade Lebenslauf...</div>
+    <div class="small" style="margin-top:12px;text-align:center">正在加载简历...</div>
   </div>
   <div id="error" class="card" style="display:none" role="alert" aria-live="assertive"></div>
   <div id="cv"></div>

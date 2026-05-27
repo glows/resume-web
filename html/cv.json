@@ -1,28 +1,24 @@
 {
-  "defaultLang": "de",
+  "defaultLang": "zh",
   "availableLangs": [
-    { "code": "de", "label": "Deutsch" },
-    { "code": "en", "label": "English" }
+    { "code": "zh", "label": "中文" }
   ],
-  "name": "Karl Klamauk",
-  "image": "profile.jpg",
+  "name": "罗东川",
+  "image": "",
   "contact": {
-    "address": "Zirkusweg 1, 12345 Witzhausen, Deutschland",
-    "email": "karl.klamauk@example.com",
-    "phone": "+49 151 00000000",
-    "web": {
-      "url": "https://example.com/karl-klamauk",
-      "title": "Website"
-    }
+    "address": "深圳",
+    "email": "duncyun@gmail.com",
+    "phone": "15123159430",
+    "wechat": "calvino42"
   },
   "socialLinks": [
     {
       "name": "GitHub",
-      "url": "https://github.com/der-klamauk"
+      "url": "https://glows.github.com"
     },
     {
-      "name": "LinkedIn",
-      "url": "https://www.linkedin.com/in/karl-klamauk/"
+      "name": "CodePen",
+      "url": "https://codepen.io/glows"
     }
   ]
 }
