@@ -1,7 +1,8 @@
 {
   "defaultLang": "zh",
   "availableLangs": [
-    { "code": "zh", "label": "中文" }
+    { "code": "zh", "label": "中文" },
+    { "code": "en", "label": "English" }
   ],
   "name": "罗东川",
   "image": "",

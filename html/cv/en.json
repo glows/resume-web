@@ -1,447 +1,430 @@
 {
-  "title": "Professional Jinx & Clown",
-  "description": "Self-deprecating clown and notorious klutz – specializing in slapstick, unexpected mishaps, and charming failure at the highest level.",
-  "pageTitle": "Karl Klamauk – Resume",
+  "title": "Senior Frontend Developer",
+  "description": "Senior Frontend Developer with 10 years of experience building web and cross-platform applications. I work mainly with React, TypeScript, JavaScript, and modern CSS stacks to deliver admin systems, SaaS platforms, mini programs, and mobile H5 applications. I am strong in complex requirement breakdown, frontend architecture, component abstraction, performance optimization, and backend collaboration. I also integrate AI coding tools such as Cursor and GitHub Copilot into daily engineering workflows for requirement analysis, refactoring, test completion, and debugging, improving delivery efficiency and code quality.",
+  "pageTitle": "Dongchuan Luo - Senior Frontend Developer Resume",
   "skills": {
-    "Clownery & Performance": [
-      "Slapstick",
-      "Juggling (often drops)",
-      "Pantomime",
-      "Audience Interaction",
-      "Improvisation",
-      "Self-irony",
-      "Crisis Humor",
-      "Timing & Rhythm",
-      "Physical Comedy",
-      "Acrobatics (with airbag)"
+    "Core Frontend": [
+      "HTML",
+      "HTML5",
+      "CSS3",
+      "LESS",
+      "JavaScript",
+      "ES6",
+      "TypeScript",
+      "Node.js"
     ],
-    "Tech & Cloud (with Humor)": [
-      "CI/CD (Clown In/Clown Out)",
-      "Git (for Confetti)",
-      "Docker (Bucket)",
-      "Kubernetes (lots in buckets)",
-      "Terraform (Pie Form)",
-      "Jenkins (Juggling Engine)",
-      "Ansible (Announcements & Fun)",
-      "GitLab CI",
-      "Prometheus (Fireworks Monitoring)",
-      "AWS (Amazon Witz Service)"
+    "Frameworks & State Management": [
+      "React",
+      "Redux",
+      "Redux Toolkit",
+      "Vue",
+      "UmiJS",
+      "Dva",
+      "TailwindCSS",
+      "Ant Design"
     ],
-    "Creative Arts": [
-      "Pie Throwing",
-      "Balloon Animals",
-      "Confetti Optimization",
-      "Banana Peel Placement",
-      "Splatter Art",
-      "Costume Design",
-      "Mask Play",
-      "Props Building"
+    "Cross-Platform & Engineering": [
+      "Uni-app",
+      "Remax",
+      "Mini Program",
+      "H5",
+      "Vite",
+      "CI/CD",
+      "Deployment",
+      "Docker"
     ],
-    "Soft Skills": [
-      "Audience Engagement",
-      "Teamwork (mostly)",
-      "Crisis Management",
-      "Stress Resilience",
-      "Creative Problem Solving",
-      "Empathy & Humor",
-      "Self-reflection",
-      "Flexibility"
+    "Project Capabilities": [
+      "Frontend Architecture",
+      "Component Library Design",
+      "Responsive Design",
+      "Frontend Performance Optimization",
+      "RESTful API",
+      "Frontend-Backend Integration",
+      "Code Standards",
+      "Complex Interaction Implementation"
+    ],
+    "AI-Assisted Development": [
+      "Cursor",
+      "GitHub Copilot",
+      "Prompt Engineering",
+      "Code Refactoring",
+      "Test Generation",
+      "Debugging Analysis",
+      "Technical Documentation"
+    ],
+    "Tools & Environment": [
+      "Git",
+      "DenoJS",
+      "Python",
+      "Linux",
+      "Vim",
+      "Gogs",
+      "MySQL"
     ]
   },
   "languages": {
-    "German": {
+    "Chinese": {
       "level": 100,
       "label": "Native",
       "cefr": "C2"
     },
     "English": {
-      "level": 85,
-      "label": "Fluent",
-      "cefr": "C1"
-    },
-    "French": {
-      "level": 60,
-      "label": "Basic",
-      "cefr": "B1"
-    },
-    "Spanish": {
-      "level": 45,
-      "label": "Beginner",
-      "cefr": "A2"
-    },
-    "Pantomime": {
-      "level": 95,
-      "label": "Native Gesture",
-      "cefr": "C2"
+      "level": 65,
+      "label": "Working Reading",
+      "cefr": "B2"
     }
   },
   "interests": [
-    "Pie Throwing",
-    "Banana Peel Collection",
-    "Balloon Animals",
-    "Confetti Optimization",
-    "Vintage Clown Noses",
-    "Slapstick Film Archaeology",
-    "Improv Theater",
-    "Stand-up Comedy",
-    "Street Art",
-    "Circus History",
-    "Horn Tuning",
-    "Oversized Shoe Customizing"
+    "Science Fiction",
+    "Frontend Technology Research",
+    "AI-Assisted Development",
+    "Engineering Efficiency",
+    "User Experience Optimization"
   ],
   "experience": [
     {
-      "title": "Big Number Goes Small",
-      "company": "Circus Fortuna",
-      "location": "Germany-wide",
-      "role": "Clown",
-      "type": "self_employed",
-      "period": {
-        "start": "2024-04",
-        "end": null
-      },
-      "skills": [
-        "Slapstick",
-        "Improvisation",
-        "Audience"
-      ],
-      "description": "Full-evening **slapstick show** with calculated mishaps – *laughter guaranteed*, success optional.",
-      "details": [
-        "Developed dramaturgy for **60-minute** jinx routine",
-        "Staged safe failure as *stylistic device* (without real injuries)",
-        "Audience interaction with `situational improvisation` and running gags",
-        "More details on [my website](https://example.com)"
-      ]
-    },
-    {
-      "title": "Digital Transformation Manager (Bucket Edition)",
-      "company": "TechStartup 'CloudFail'",
-      "location": "Berlin",
-      "role": "Chief Chaos Officer",
-      "type": "contract",
-      "period": {
-        "start": "2023-01",
-        "end": "2024-03"
-      },
-      "skills": [
-        "Docker (Bucket)",
-        "Kubernetes (lots in buckets)",
-        "CI/CD (Clown In/Clown Out)",
-        "Git (for Confetti)"
-      ],
-      "description": "Responsible for **orchestrated failure** in the cloud – *with style*.",
-      "details": [
-        "Migration from **on-premise pies** to `cloud pies` successfully botched",
-        "Container orchestration: *99%* of buckets fell at the right time",
-        "Implemented **Continuous Chaos Pipeline** with automated mishaps",
-        "Team building through shared laughter about production fails"
-      ]
-    },
-    {
-      "title": "Pantomime & Non-Verbal Communication Expert",
-      "company": "Artist Group 'The Silent Ones'",
-      "location": "Hamburg",
-      "role": "Senior Gesticulator",
+      "title": "IoT Mini Program & Hardware Management App",
+      "company": "Shenzhen Yibaifen Intelligent Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
       "type": "permanent",
       "period": {
-        "start": "2020-06",
-        "end": "2022-12"
+        "start": "2023-12",
+        "end": "2025-10"
       },
       "skills": [
-        "Pantomime",
-        "Body Language",
-        "Non-verbal Communication",
-        "Expressive Dance"
+        "Uni-app",
+        "Mini Program",
+        "IoT",
+        "React",
+        "Vue",
+        "AI-Assisted Development",
+        "Frontend Performance Optimization"
       ],
-      "description": "Silent art with loud mishaps – when the body says more than a thousand words.",
+      "description": "Led core frontend development for IoT mini programs and hardware management applications, supporting device binding, user profile binding, device interaction, and location sharing scenarios.",
       "details": [
-        "Developed own sign language for 'Help, I'm stuck'",
-        "Perfected the 'invisible wall' – unfortunately too convincing (bump on head)",
-        "Workshop leader: 'How to fail in silence' (sold out!)",
-        "TV guest appearance – accidentally ended up on a talk show"
+        "Built hardware management mini programs with Uni-app, covering user binding, device status display, device data interaction, and location sharing flows",
+        "Abstracted binding differences across device models into reusable flows and components, reducing repeated development for multi-device onboarding",
+        "Owned complex interaction implementation and core module development while improving frontend architecture, page performance, and cross-platform consistency",
+        "Defined frontend development standards, participated in code reviews, and guided junior and mid-level engineers on component decomposition, state management, and API integration",
+        "Used Cursor and GitHub Copilot for requirement breakdown, code refactoring, test completion, and troubleshooting, shortening feature delivery cycles by about 25%"
       ]
     },
     {
-      "title": "Junior Balloon Architect",
-      "company": "Kids Party Service 'Pop & Drop'",
-      "location": "Munich",
-      "role": "Balloon Artist",
-      "type": "staffing",
+      "title": "Education Platform SaaS System",
+      "company": "Shenzhen Yibaifen Intelligent Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
       "period": {
-        "start": "2019-10",
-        "end": "2020-05"
+        "start": "2023-12",
+        "end": "2025-10"
       },
       "skills": [
-        "Balloon Animals",
-        "Crisis Management",
-        "Kids Birthdays",
-        "Improvisation Art"
+        "React",
+        "TailwindCSS",
+        "Zustand",
+        "SaaS",
+        "Access Control",
+        "Media Management",
+        "RESTful API"
       ],
-      "description": "From giraffe to abstract expressionism – in just one *pop*.",
+      "description": "Developed core frontend modules for an education SaaS admin system, supporting educational content upload, terminal information maintenance, media management, access control, and subscription order management.",
       "details": [
-        "Specialized in 'What's that supposed to be?' animals with high interpretive range",
-        "Developed the legendary 'Popping Poodle' (unintentional but iconic)",
-        "Emergency rescue during balloon mishaps through creative reinterpretation",
-        "Customer satisfaction: 4 out of 5 stars ('He entertained us greatly, albeit differently than planned')"
+        "Built admin pages with React and TailwindCSS for content upload, terminal information management, and media asset maintenance",
+        "Used Zustand for cross-module state management, improving data-flow clarity in complex forms, filtered lists, and detail-editing scenarios",
+        "Implemented user access control, subscription order management, and abnormal-state displays to complete the admin workflow",
+        "Encapsulated reusable business components for content upload, media selection, permission configuration, and order status display, reducing repeated work across similar pages",
+        "Collaborated with backend engineers on API design, integration, and exception handling to improve operational efficiency and admin user experience"
       ]
     },
     {
-      "title": "Internship: Pie Thrower & Splatter Artist",
-      "company": "Film Studio 'Slapstick Productions'",
-      "location": "Cologne",
-      "role": "Intern",
-      "type": "contract",
+      "title": "Crypto Wallet Management System",
+      "company": "Dashuyun (Shenzhen) Investment Development Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
       "period": {
-        "start": "2019-04",
-        "end": "2019-09"
+        "start": "2022-08",
+        "end": "2022-10"
       },
       "skills": [
-        "Pie Throwing",
-        "Timing & Rhythm",
-        "Crisis Humor",
-        "Splatter Art"
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "Vite",
+        "Redux Toolkit",
+        "RESTful API"
       ],
-      "description": "Precision work with cream – main actors accidentally hit more often than planned.",
+      "description": "Built frontend foundations and core modules for a crypto wallet admin system covering wallet registration, token management, account assets, and data analysis.",
       "details": [
-        "Training in the art of perfectly timed pie throwing",
-        "Developed own throwing technique: 'The Boomerang Splat'",
-        "Accident rate: 73% (but everyone laughed!)",
-        "Award: 'Most Creative Spot on the Lens' at Team Film Festival"
+        "Initialized the project with React, TypeScript, Vite, TailwindCSS, and Redux Toolkit, including routing structure and state management setup",
+        "Developed the two core modules: token management and account management",
+        "Implemented token type, token contract, and blockchain type management flows",
+        "Implemented account lists, account addresses, account assets, and account asset transaction records",
+        "Supported fast delivery from requirement analysis and technology selection to iteration and component optimization"
       ]
     },
     {
-      "title": "Street Art Performance 'The Stumbling Poet'",
-      "company": "Self-employed",
-      "location": "Berlin Mitte",
-      "role": "Street Artist",
-      "type": "self_employed",
+      "title": "Access Control Management System",
+      "company": "Dashuyun (Shenzhen) Investment Development Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
       "period": {
-        "start": "2018-05",
-        "end": "2019-03"
+        "start": "2022-08",
+        "end": "2022-09"
       },
       "skills": [
-        "Audience Interaction",
-        "Improvisation",
-        "Physical Comedy",
-        "Street Art"
+        "React",
+        "Access Control",
+        "Routing Design",
+        "Component Encapsulation",
+        "Single Sign-On",
+        "Frontend-Backend Integration"
       ],
-      "description": "Living statue with integrated mishaps – art meets chaos.",
+      "description": "Independently designed and developed the frontend architecture for an admin access-control system, unifying users, roles, permission assignment, and backend SSO flows.",
       "details": [
-        "Developed interactive character: 'The man who can't stand still'",
-        "Average earnings of €200 per day (in 5-cent coins)",
-        "Went viral on Instagram: 2.4 million views for 'The fall that never ends'",
-        "Collaboration with local artists for flash mob performances"
+        "Completed project setup, route configuration, and page structure design independently",
+        "Abstracted reusable permission forms, tables, and modal components for multiple admin scenarios",
+        "Developed user management, role settings, permission assignment, API integration, and joint debugging",
+        "Optimized user and role management workflows and integrated backend single sign-on to improve internal administration efficiency"
       ]
     },
     {
-      "title": "Community Manager for Clown Influencer",
-      "company": "Social Media Agency 'LaughLabs'",
-      "location": "Remote",
-      "role": "Social Media Manager",
-      "type": "contract",
+      "title": "AI Voice SaaS System",
+      "company": "Shenzhen SoundAI Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Senior Frontend Developer",
+      "type": "permanent",
+      "period": {
+        "start": "2021-08",
+        "end": "2022-04"
+      },
+      "skills": [
+        "React",
+        "TypeScript",
+        "Ant Design",
+        "Dva",
+        "SaaS",
+        "Audio Processing",
+        "Component Library Design"
+      ],
+      "description": "Developed an AI voice SaaS platform and admin pages for voice intelligence scenarios such as in-car voice applications and financial anti-fraud.",
+      "details": [
+        "Participated in the development of a Gin + React + TypeScript + MySQL intelligent voice display application",
+        "Developed AI SaaS frontend features across PC, mobile, and admin interfaces",
+        "Implemented permission management, audio upload, file display, voiceprint recognition, speech segmentation, and feature extraction flows",
+        "Designed and maintained reusable business components for high-frequency scenarios such as forms, uploads, and result displays",
+        "Participated in code standardization and frontend workflow definition while continuously improving interaction experience and page responsiveness"
+      ]
+    },
+    {
+      "title": "AI Voice Demo Mini Program",
+      "company": "Shenzhen SoundAI Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
+      "period": {
+        "start": "2021-09",
+        "end": "2022-01"
+      },
+      "skills": [
+        "React",
+        "Remax",
+        "TypeScript",
+        "Mini Program",
+        "Component Development",
+        "Deployment"
+      ],
+      "description": "Developed an AI voice demo mini program covering recording, audio upload, speech segmentation, voiceprint recognition, and voiceprint clustering.",
+      "details": [
+        "Developed frontend features for the mini program demo application",
+        "Implemented recording, audio upload, speech segmentation, voiceprint recognition, and voiceprint clustering interaction flows",
+        "Handled component development, deployment, and ongoing maintenance"
+      ]
+    },
+    {
+      "title": "Smart Insurance Platform",
+      "company": "Shenzhen Yinxiaobao Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
+      "period": {
+        "start": "2018-12",
+        "end": "2020-03"
+      },
+      "skills": [
+        "React",
+        "UmiJS",
+        "Ant Design",
+        "Mini Program",
+        "HTML5",
+        "CI/CD",
+        "Frontend Performance Optimization"
+      ],
+      "description": "Contributed to a smart insurance SaaS platform covering mobile, H5, mini program, PC admin, and insurance sales workflows.",
+      "details": [
+        "Handled technology selection, mobile frontend development, admin frontend development, deployment, and custom feature additions",
+        "Developed core features such as insurance display, insurance analysis, article editing and sharing, purchase flows, admin management, and dashboard visualization",
+        "Optimized shared components and frontend performance, improving maintainability and loading experience for mobile business pages",
+        "Improved deployment workflows and implemented CI/CD automation to increase release efficiency"
+      ]
+    },
+    {
+      "title": "Transparency Plan & Mining Pool Websites",
+      "company": "Shenzhen Lianglian Technology Co., Ltd.",
+      "location": "Shenzhen",
+      "role": "Frontend Developer",
+      "type": "permanent",
+      "period": {
+        "start": "2018-06",
+        "end": "2018-11"
+      },
+      "skills": [
+        "JavaScript",
+        "Frontend Architecture",
+        "Requirement Analysis",
+        "Feature Design",
+        "Frontend Development"
+      ],
+      "description": "Worked on blockchain-related website projects, including requirement analysis, feature design, frontend architecture, and page development.",
+      "details": [
+        "Participated in early-stage requirement analysis and feature design",
+        "Designed frontend project structure and implemented page code",
+        "Completed design, development, and launch support for the Transparency Plan website and several mining pool pages"
+      ]
+    },
+    {
+      "title": "Yujiao Mall & Mobile WeChat Mall",
+      "company": "Chongqing Yujiao Technology Co., Ltd.",
+      "location": "Chongqing",
+      "role": "Frontend Developer",
+      "type": "permanent",
       "period": {
         "start": "2017-08",
-        "end": "2018-04"
+        "end": "2018-01"
       },
       "skills": [
-        "Social Media Marketing",
-        "Content Creation",
-        "Community Management",
-        "Crisis Management"
+        "Vue",
+        "WeChat Mall",
+        "HTML5",
+        "API Integration",
+        "UI Design",
+        "Frontend-Backend Separation"
       ],
-      "description": "Managing comedy content for 500K+ followers – sometimes funnier than planned.",
+      "description": "Developed frontend features for education e-commerce and campus service products, covering PC mall, mobile WeChat mall, and school uniform purchase modules.",
       "details": [
-        "Increased follower count by 340% in 8 months",
-        "Developed viral content strategies (12 posts with >1M reach)",
-        "Crisis intervention during 'Pie-Gate 2017' (accidental politician hit)",
-        "A/B testing of memes: 'Banana Peel vs. Rake' (Rake won with 73% engagement)"
+        "Integrated backend APIs and implemented page display, user interactions, and order-related business flows",
+        "Participated in technology selection and completed Yujiao Mall development",
+        "Added a mobile school-uniform purchase module",
+        "Developed a PC learning and daily-supplies mall, including imported-goods management and daily frontend maintenance",
+        "Developed mobile WeChat mall modules such as user center and product management"
       ]
     },
     {
-      "title": "Circus Direction Assistant",
-      "company": "Traveling Circus 'Maharani'",
-      "location": "Europe Tour",
-      "role": "Organization Assistant",
+      "title": "School Uniform Mini Program Mall",
+      "company": "Chongqing Yujiao Technology Co., Ltd.",
+      "location": "Chongqing",
+      "role": "Frontend Developer",
       "type": "permanent",
       "period": {
-        "start": "2016-03",
-        "end": "2017-07"
+        "start": "2017-11",
+        "end": "2018-01"
       },
       "skills": [
-        "Event Management",
-        "Logistics",
-        "Teamwork (mostly)",
-        "Crisis Management"
+        "Mini Program",
+        "WeChat Mall",
+        "Component Development",
+        "Project Optimization"
       ],
-      "description": "Coordinating shows, transports, and emergencies – learning by doing (and failing).",
+      "description": "Developed a WeChat-based school uniform display and purchase project for schools and students.",
       "details": [
-        "Organized 140+ shows in 8 countries",
-        "Emergency stand-in as clown during sick leave (standing ovations!)",
-        "Optimized tour logistics: 25% time savings through new route",
-        "Conflict resolution in multicultural team (12 nationalities)"
+        "Completed project development and optimization independently",
+        "Implemented core features such as uniform display, size selection, and purchase flow"
       ]
     },
     {
-      "title": "Student Job: Kids Birthday Entertainer",
-      "company": "Event Service 'Party Magic'",
-      "location": "Cologne Area",
-      "role": "Entertainer",
-      "type": "staffing",
+      "title": "Teacher-Parent-Student Management System",
+      "company": "Chongqing Yujiao Technology Co., Ltd.",
+      "location": "Chongqing",
+      "role": "Frontend Developer",
+      "type": "permanent",
       "period": {
-        "start": "2015-10",
-        "end": "2016-02"
+        "start": "2017-08",
+        "end": "2017-12"
       },
       "skills": [
-        "Kids Program",
-        "Improvisation",
-        "Stress Resilience",
-        "Balloon Animals"
+        "Vue",
+        "PC Web",
+        "UI Design",
+        "Module Development",
+        "Frontend-Backend Separation"
       ],
-      "description": "Entertainment for 4 to 10-year-olds – harder than it sounds.",
+      "description": "Worked on technology selection, partial UI design, module development, and maintenance for a PC management system used by teachers, parents, and students.",
       "details": [
-        "Conducted 60+ kids birthdays without major incidents",
-        "Specialized in 'Difficult Groups' (bonus pay: +30%)",
-        "Developed the 'Quiet Minute Game' (patent pending)",
-        "5-star review: 'He kept everyone busy, even Kevin!'"
+        "Developed and maintained multiple business modules",
+        "Deepened practical understanding of frontend-backend separated development",
+        "Improved proficiency with Vue in real business projects"
+      ]
+    },
+    {
+      "title": "Internal Git Server Setup",
+      "company": "Chengdu Ruichengxinwei Technology Co., Ltd.",
+      "location": "Chengdu",
+      "role": "DevOps / IT Support",
+      "type": "permanent",
+      "period": {
+        "start": "2017-04",
+        "end": "2017-04"
+      },
+      "skills": [
+        "Git",
+        "Gogs",
+        "MySQL",
+        "Linux",
+        "DevOps"
+      ],
+      "description": "Set up an internal Git server with Gogs and MySQL to improve team code management and release workflows.",
+      "details": [
+        "Built a Git code hosting service and introduced it into the team's code management process",
+        "Improved code management and version release practices"
+      ]
+    },
+    {
+      "title": "Operations Support & Portal Website Development",
+      "company": "Chengdu Ruichengxinwei Technology Co., Ltd.",
+      "location": "Chengdu",
+      "role": "IT Support",
+      "type": "permanent",
+      "period": {
+        "start": "2016-08",
+        "end": "2017-08"
+      },
+      "skills": [
+        "IT Support",
+        "Portal Website Development",
+        "Linux",
+        "Operations"
+      ],
+      "description": "Handled IT support and operations-related tasks while participating in company portal website development and maintenance.",
+      "details": [
+        "Supported internal IT, operations, and basic environment issue handling",
+        "Participated in portal page development, content maintenance, and daily issue fixes"
       ]
     }
   ],
   "education": [
     {
-      "degree": "Diploma in Applied Clownery",
-      "school": "University of Humoristics",
-      "location": "Cologne",
+      "degree": "Bachelor's Degree · Computer Science and Technology",
+      "school": "Chongqing Jiaotong University",
+      "location": "Chongqing",
       "period": {
-        "start": "2015-10",
-        "end": "2019-09"
-      },
-      "description": "Focus on slapstick, improv, and pedagogy. Final grade: 1.3 (Chaos cum laude)",
-      "details": [
-        "Final project: 'Dancing with the Pie' (Grade: 1.0)",
-        "Tutor for first-semester clownery (WiSe 2017/18 & SoSe 2018)",
-        "Scholarship from 'Laughing Hearts Foundation' (2016-2019)",
-        "Minor: Theater Pedagogy & Performance Psychology",
-        "Exchange semester at Circus Arts Academy, Paris (SoSe 2017)"
-      ]
-    },
-    {
-      "degree": "Training: Professional Clown Techniques",
-      "school": "International Clown Academy",
-      "location": "London, UK",
-      "period": {
-        "start": "2020-01",
-        "end": "2020-03"
-      },
-      "description": "Intensive course for advanced clowns with focus on international standards.",
-      "details": [
-        "Modules: Advanced Slapstick, Character Development, Physical Comedy",
-        "Guest lecturers from Cirque du Soleil and Slava's Snowshow",
-        "Certification: 'Professional Clown' (International Standards)"
-      ]
-    },
-    {
-      "degree": "Workshop: DevOps for Creatives",
-      "school": "Tech Academy Berlin",
-      "location": "Berlin",
-      "period": {
-        "start": "2022-11",
-        "end": "2023-01"
-      },
-      "description": "Introduction to DevOps, CI/CD, and cloud technologies for career changers.",
-      "details": [
-        "Fundamentals: Docker, Kubernetes, Git, CI/CD Pipelines",
-        "Project work: 'Automated Confetti Deployment System'",
-        "Certificate with distinction"
-      ]
-    },
-    {
-      "degree": "Training: State-Certified Artist",
-      "school": "State Artist School Berlin",
-      "location": "Berlin",
-      "period": {
-        "start": "2013-09",
+        "start": "2011-09",
         "end": "2015-07"
       },
-      "description": "Basic training in artistry, acrobatics, and performing arts.",
-      "details": [
-        "Focus areas: Clownery, Acrobatics, Juggling, Aerial Arts",
-        "Final presentation: 'The Clumsy Bat' (Audience Award)",
-        "Additional qualification: First Aid & Workplace Safety on Set"
-      ]
+      "description": "Bachelor's degree in Computer Science and Technology"
     }
   ],
-  "certificates": [
-    {
-      "title": "Certified Kubernetes Administrator (CKA)",
-      "description": "Official Linux Foundation certification for Kubernetes Administration.",
-      "date": "2023-05",
-      "url": "https://www.cncf.io/certification/cka/"
-    },
-    {
-      "title": "AWS Certified Cloud Practitioner",
-      "description": "Foundation certification for Amazon Web Services (AWS) Cloud.",
-      "date": "2023-02",
-      "url": "https://aws.amazon.com/certification/certified-cloud-practitioner/"
-    },
-    {
-      "title": "GitLab Certified CI/CD Specialist",
-      "description": "Certification for GitLab CI/CD Pipelines and DevOps workflows.",
-      "date": "2023-08",
-      "url": null
-    },
-    {
-      "title": "Certified Banana Peel Specialist (CBPS)",
-      "description": "Professional handling of banana peels, including slip safety.",
-      "date": "2020-04",
-      "url": null
-    },
-    {
-      "title": "Advanced Confetti Management Certificate",
-      "description": "Certification for professional confetti deployment with optimal distribution and cleanup strategies.",
-      "date": "2021-11",
-      "url": null
-    },
-    {
-      "title": "Professional Pie Throwing License (Level 3)",
-      "description": "License for professional pie throwing with focus on timing, trajectory, and splatter patterns.",
-      "date": "2019-08",
-      "url": null
-    },
-    {
-      "title": "International Clown Certification (ICC)",
-      "description": "Worldwide recognition as professional clown by the World Clown Association.",
-      "date": "2020-06",
-      "url": null
-    },
-    {
-      "title": "First Aid for Self-Inflicted Slapstick Injuries",
-      "description": "Emergency care for self-inflicted comedy accidents. Focus: Pie in face, trip hazards.",
-      "date": "2018-06",
-      "url": null
-    },
-    {
-      "title": "Professional Stage Combat Certification",
-      "description": "Certification for safe stage combat and choreographed slapstick sequences.",
-      "date": "2019-03",
-      "url": null
-    },
-    {
-      "title": "Docker Certified Associate (DCA)",
-      "description": "Official Docker certification for container technologies (bucket variant not included).",
-      "date": "2022-12",
-      "url": "https://www.docker.com/certification"
-    },
-    {
-      "title": "PRINCE2 Foundation (Project Management)",
-      "description": "Foundation certification in project management according to PRINCE2 methodology.",
-      "date": "2021-09",
-      "url": null
-    },
-    {
-      "title": "Scrum Master Certified (SMC)",
-      "description": "Agile project management certification for Scrum methodology.",
-      "date": "2022-03",
-      "url": null
-    }
-  ]
+  "certificates": []
 }

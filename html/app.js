@@ -600,6 +600,7 @@
       })
       .then(([i18nData, contentData])=>{
         i18n = i18nData;
+        document.documentElement.lang = currentLang === 'zh' ? 'zh-CN' : currentLang;
         updateStaticTexts();
         initLangSwitcher(currentLang);
         // Merge config + content
