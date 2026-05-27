@@ -114,8 +114,11 @@
     if(avatar){
       if(d.image){
         avatar.src = d.image;
+        avatar.hidden = false;
         avatar.style.display = '';
       } else {
+        avatar.removeAttribute('src');
+        avatar.hidden = true;
         avatar.style.display = 'none';
       }
     }
