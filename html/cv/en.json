@@ -1,6 +1,6 @@
 {
   "title": "Senior Frontend Developer",
-  "description": "Senior Frontend Developer with 10 years of experience building web and cross-platform applications. I work mainly with React, TypeScript, JavaScript, and modern CSS stacks to deliver admin systems, SaaS platforms, mini programs, and mobile H5 applications. I am strong in complex requirement breakdown, frontend architecture, component abstraction, performance optimization, and backend collaboration. I also integrate AI coding tools such as Codex and Claude Code into daily engineering workflows for requirement analysis, refactoring, test completion, and debugging, improving delivery efficiency and code quality.",
+  "description": "Senior Frontend Developer with 10 years of experience building web and cross-platform applications. I work mainly with React, TypeScript, JavaScript, and modern CSS stacks to deliver admin systems, SaaS platforms, mini programs, mobile H5 applications, and AI applications. I am strong in complex requirement breakdown, frontend architecture, component abstraction, performance optimization, and backend collaboration. I also integrate AI coding tools such as Codex and Claude Code into daily engineering workflows for requirement analysis, refactoring, test completion, and debugging, improving delivery efficiency and code quality.",
   "pageTitle": "Dongchuan Luo - Senior Frontend Developer Resume",
   "skills": {
     "Core Frontend": [
@@ -82,6 +82,35 @@
     "User Experience Optimization"
   ],
   "experience": [
+    {
+      "title": "Independent AI Application Projects",
+      "company": "Independent Development",
+      "location": "Shenzhen / Remote",
+      "role": "Full-Stack Developer (Frontend-Focused)",
+      "type": "self_employed",
+      "period": {
+        "start": "2025-10",
+        "end": null
+      },
+      "skills": [
+        "React",
+        "TypeScript",
+        "TailwindCSS",
+        "Vite",
+        "Node.js",
+        "AI API Integration",
+        "Codex",
+        "Claude Code"
+      ],
+      "description": "Independently developed multiple AI applications covering local speech recognition, image generation, and AI-assisted reading, owning product design, frontend implementation, API integration, and interaction optimization.",
+      "details": [
+        "Built a local speech recognition application supporting audio file processing, recognition task triggering, result display, and local invocation workflow optimization",
+        "Built an image generation application covering prompt input, generation parameter configuration, result display, and generation history management",
+        "Built an AI reading application supporting text parsing, summary generation, reading assistance, Q&A interaction, and content management",
+        "Owned the end-to-end development process from requirement breakdown, page design, and component implementation to API integration, while extracting reusable AI interaction components",
+        "Used Codex and Claude Code to assist code generation, refactoring, debugging, and technical solution validation, improving independent development efficiency"
+      ]
+    },
     {
       "title": "IoT Mini Program & Hardware Management App",
       "company": "Shenzhen Yibaifen Intelligent Technology Co., Ltd.",
