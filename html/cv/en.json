@@ -1,6 +1,6 @@
 {
   "title": "Senior Frontend Developer",
-  "description": "Senior Frontend Developer with 10 years of experience building web and cross-platform applications. I work mainly with React, TypeScript, JavaScript, and modern CSS stacks to deliver admin systems, SaaS platforms, mini programs, and mobile H5 applications. I am strong in complex requirement breakdown, frontend architecture, component abstraction, performance optimization, and backend collaboration. I also integrate AI coding tools such as Cursor and GitHub Copilot into daily engineering workflows for requirement analysis, refactoring, test completion, and debugging, improving delivery efficiency and code quality.",
+  "description": "Senior Frontend Developer with 10 years of experience building web and cross-platform applications. I work mainly with React, TypeScript, JavaScript, and modern CSS stacks to deliver admin systems, SaaS platforms, mini programs, and mobile H5 applications. I am strong in complex requirement breakdown, frontend architecture, component abstraction, performance optimization, and backend collaboration. I also integrate AI coding tools such as Codex and Claude Code into daily engineering workflows for requirement analysis, refactoring, test completion, and debugging, improving delivery efficiency and code quality.",
   "pageTitle": "Dongchuan Luo - Senior Frontend Developer Resume",
   "skills": {
     "Core Frontend": [
@@ -44,8 +44,8 @@
       "Complex Interaction Implementation"
     ],
     "AI-Assisted Development": [
-      "Cursor",
-      "GitHub Copilot",
+      "Codex",
+      "Claude Code",
       "Prompt Engineering",
       "Code Refactoring",
       "Test Generation",
@@ -107,7 +107,7 @@
         "Abstracted binding differences across device models into reusable flows and components, reducing repeated development for multi-device onboarding",
         "Owned complex interaction implementation and core module development while improving frontend architecture, page performance, and cross-platform consistency",
         "Defined frontend development standards, participated in code reviews, and guided junior and mid-level engineers on component decomposition, state management, and API integration",
-        "Used Cursor and GitHub Copilot for requirement breakdown, code refactoring, test completion, and troubleshooting, shortening feature delivery cycles by about 25%"
+        "Used Codex and Claude Code for requirement breakdown, code refactoring, test completion, and troubleshooting, shortening feature delivery cycles by about 25%"
       ]
     },
     {
